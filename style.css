@@ -1,0 +1,55 @@
+
+body {
+  font-family: Arial, Helvetica, san-serif;
+  padding-left:15px
+}
+
+h1 {
+  text-decoration-line: underline;
+}
+
+.Profile {
+  overflow: hidden;
+  background-color: #333;
+  color: #F1F1F1;
+  padding: 10px
+}
+
+.Info {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
+.Experience {
+  float: left;
+  width: 50%;
+}
+
+.Skills {
+  margin: 5px;
+  float: left;
+  width: 25%;
+}
+
+.Education {
+  margin: 5px;
+  float: left;
+  width: 26%
+}
+
+.Footer {
+  clear: left;
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
